@@ -1,6 +1,6 @@
 <div align="center">
 
-# 🐳 Илюзара — сайт в Docker
+# Илюзара — сайт в Docker
 
 **Развёртывание статического веб-сайта с помощью Nginx и Docker Compose**
 
