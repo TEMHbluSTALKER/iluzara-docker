@@ -17,7 +17,10 @@ DockerSite/
     ├── atol-products.html     # Каталог продукции АТОЛ
     ├── contacts.html          # Контакты
     ├── service-and-support.html # Сервис и поддержка
-    └── styles-*.css           # Стили страниц
+    ├── styles-index.css                # Главная страница. Стиль
+    ├── styles-atol-products.css        # Каталог продукции АТОЛ. Стиль
+    ├── styles-service-and-support.css  # Сервис и поддержка. Стиль
+    └── styles-grid.css                 # Контакты. Стиль
 ```
 
 ## Как запустить
